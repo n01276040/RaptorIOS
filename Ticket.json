@@ -13,7 +13,13 @@
 			"name": "Curtside",
 			"quantity": 50,
 			"price": 500.5
+		},
+                {
+			"name": "Curtside",
+			"quantity": 50,
+			"price": 500.5
 		}
+
 	]
 }
 	
