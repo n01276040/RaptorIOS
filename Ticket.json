@@ -3,17 +3,17 @@
   [{
   "name": "Balcony Level", 
   "quantity":30, 
-  "price":300
+  "price":300.5
 },
  {
  "name": "Lower Level", 
   "quantity":40, 
-    "price":400
+    "price":400.5
 },
 { 
   "name": "Curtside", 
   "quantity":50, 
-   "price":500
+   "price":500.5
 }
             ]
 }
