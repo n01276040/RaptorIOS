@@ -2,22 +2,22 @@
 	"tickets": [{
 			"name": "Balcony Level",
 			"quantity": 30,
-			"price": 300.5
+			"price": 284.5
 		},
 		{
 			"name": "Lower Level",
 			"quantity": 40,
-			"price": 400.5
+			"price": 384.7
 		},
 		{
 			"name": "Curtside",
 			"quantity": 50,
-			"price": 500.5
+			"price": 500
 		},
                 {
 			"name": "special",
 			"quantity": 50,
-			"price": 5000.5
+			"price": 1000
 		}
 
 	]
